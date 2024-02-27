@@ -14,4 +14,5 @@
 - Partial Differential Equations
 
 ### Copyright and Plagiarism notice:
+- This is not intented as teaching material. These homeworks serve as a representation of the workload in said class and their accuracy may not be fully correct.
 - All rights to this information, including homework problems, project and datasets, are solely property of the people who worked and created these projects, both professors and student.
